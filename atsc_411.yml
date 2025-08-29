@@ -13,6 +13,4 @@ dependencies:
   - xarray
   - scipy
   - matplotlib
-  - numpy
-  - metpy
   - datetime
