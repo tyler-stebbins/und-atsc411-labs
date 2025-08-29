@@ -14,3 +14,6 @@ dependencies:
   - scipy
   - matplotlib
   - datetime
+  - requests
+  - netcdf4
+  - cartopy
