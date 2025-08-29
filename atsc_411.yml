@@ -13,7 +13,6 @@ dependencies:
   - xarray
   - scipy
   - matplotlib
-  - datetime
   - requests
   - netcdf4
   - cartopy
